@@ -4,3 +4,9 @@ Group ID: E1To2eki3PzGGzDMlDNP0w
 Image: C:\Coding\Python\KAMIValStats\Output_1.jpg
 Caption: Match Stats
 --------------------
+Date: 5/10/2022
+Time: 20:2
+Group ID: E1To2eki3PzGGzDMlDNP0w
+Image: C:\Coding\Python\KAMIValStats\Output_1.jpg
+Caption: Match Stats
+--------------------

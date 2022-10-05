@@ -1,0 +1,1 @@
+pyinstaller --onefile valdata.py --hiddenimport=aspose.pydrawing --hiddenimport=aspose.pygc --collect-binaries=aspose
